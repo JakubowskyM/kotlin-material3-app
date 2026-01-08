@@ -6,7 +6,7 @@ Jeśli chcesz wersję:
 
 
 
-![License](https://img.shields.io/badge/license-MIT-green) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Language](https://img.shields.io/badge/language-Kotlin-yellow) ![GitHub](https://img.shields.io/badge/GitHub-JakubowskyM/kotlin-material3-app-black?logo=github) ![Build Status](https://img.shields.io/github/actions/workflow/status/JakubowskyM/kotlin-material3-app/ci.yml?branch=main)
+![License](https://img.shields.io/badge/license-MIT-green) ![Version](https://img.shields.io/badge/version-1.0.0-blue) ![Language](https://img.shields.io/badge/language-Kotlin-yellow) [![GitHub Repo](https://img.shields.io/badge/GitHub-kotlin--material3--app-black?logo=github)](https://github.com/JakubowskyM/kotlin-material3-app) ![Build Status](https://img.shields.io/github/actions/workflow/status/JakubowskyM/kotlin-material3-app/ci.yml?branch=main)
 
 ## ℹ️ Project Information
 
